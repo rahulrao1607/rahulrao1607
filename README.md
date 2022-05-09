@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrao1607&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrao1607" /> </p>
 
-- 🌱 I’m currently **Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)**
+- 🌱 I’m currently **a Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)**
 
 - 📫 How to reach me **rahyadav1002@gmail.com**
 
