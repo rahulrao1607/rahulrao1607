@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A passionate Flutter developer an Full satck developer</h3>
+<h3 align="center">A passionate Flutter developer and Full satck developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrao1607&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrao1607" /> </p>
 
