@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A passionate Android an web developer</h3>
+<h3 align="center">A passionate Flutter developer an Full satck developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrao1607&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrao1607" /> </p>
 
-- 🌱 I’m currently **a Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)**
+- 🌱Graduated from Graphic era hill university with a bachelor's degree in computer Science engineering in 2023**
 
 - 📫 How to reach me **rahyadav1002@gmail.com**
 
